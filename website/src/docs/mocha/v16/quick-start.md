@@ -22,6 +22,7 @@ You need two packages: the core bus and the InMemory transport.
 
 ```bash
 dotnet add package Mocha
+dotnet add package Mocha.Analyzers
 dotnet add package Mocha.Transport.InMemory
 ```
 
